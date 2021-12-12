@@ -1,6 +1,23 @@
 Dataset is available at link => https://drive.google.com/drive/folders/1End_chXsxfI2-_XAcv9KKJiM4TZ8rp7O?usp=sharing
 
 Folder structure =>
+
+Directory:
+	--VisionBeyondLimits
+	|
+	|--Images
+		|	
+		|--image 1
+		|--image 2
+		|--image 3
+	|--Labels
+		|	
+		|--label 1
+		|--label 2
+		|--label 3 
+      
+      
+      
     * VBL Dataset
         |
     * VisionBeyondLimits
