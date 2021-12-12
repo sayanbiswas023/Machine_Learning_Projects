@@ -44,4 +44,5 @@ Possible issues:
    
    3. Ensure shortcut of dataset has been created in My Drive
    
-  
+
+![alt text](https://github.com/sayanbiswas023/Machine_Learning_Projects/blob/main/Mexico_multiclass_Earthquake_Building_Damage/skip/unet.png)
