@@ -29,15 +29,15 @@ List of modules need to be installed:
  
 Possible issues:
   1. may be a compatibility issue of segmentation_model with keras...do this=> 
-   ...
+   ```
     sm.set_framework('tf.keras')
     sm.framework()
-   ...
+   ```
    
    2.Some GPUs may work slow with mised precision compatibility. Turn that off unless there's memory limitations
-   ...
+   ```
     # mixed_precision.set_global_policy('mixed_float16')
-   ...
+   ```
    
    3. Create a shortcut of dataset in My Drive
    
