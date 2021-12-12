@@ -552,10 +552,10 @@ plt.show()
 
 ## =============================================================================
 
-# uncomment and run these lines to predict a folder containing test images of shape[1024,1024,3]
+## uncomment and run these lines to predict a folder containing test images of shape[1024,1024,3]
 
 # test_path=' set path here' #include the last backslash
-# testlst=os.lstdir(test_path)
+# testlst=os.listdir(test_path)
 
 # for file in tqdm(testlst):
 #     image=skio.imread(test_path+'/'+file)
