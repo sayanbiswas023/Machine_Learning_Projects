@@ -40,6 +40,6 @@ Possible issues:
     # mixed_precision.set_global_policy('mixed_float16')
    ```
    
-   3. Create a shortcut of dataset in My Drive
+   3. Ensure shortcut of dataset has been created in My Drive
    
   
