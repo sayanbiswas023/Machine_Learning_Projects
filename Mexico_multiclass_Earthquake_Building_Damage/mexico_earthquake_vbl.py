@@ -550,7 +550,43 @@ plt.show()
 
 
 
+## =============================================================================
 
+# uncomment and run these lines to predict a folder containing test images of shape[1024,1024,3]
+
+# test_path=' set path here' #include the last backslash
+# testlst=os.lstdir(test_path)
+
+# for file in tqdm(testlst):
+#     image=skio.imread(test_path+'/'+file)
+#     imar=np.array(image,dtype=np.uint8)
+    
+#     predicted_patches=[]
+#     patches=patchify(image,(256,256),step=256)
+    
+#     for p in range(patches_img.shape[0]):
+#         for q in range(patches_img.shape[1]):
+            
+#             single_im_patch=patches[p,q,:,:,:]
+#             testet=np.expand_dims(single_im_patch,axis=0) [1,256,256,3]
+            
+#             pred = model.predict(testet, verbose=1) #  predict =>[1,256,256,6]
+#             pred=np.squeeze(pred) # [256,256,6]
+            
+#             pred=np.argmax(pred,axis=2) #[256,256]
+            
+#             predicted_patches.append(pred)
+            
+#     predicted_patches=np.array(predicted_patches)
+#     predicted_patches_reshaped=np.reshape(predicted_patches,(patches.shape[0],patches.shape[1],256,256))
+    
+#     reconstructed_image=unpatchify(predicted_patches_reshaped,(1024,1024)) # reconstruct
+    
+#     #show
+#     skio.imshow(color.label2rgb(255*reconstructed_image))
+#     plt.show()
+    
+#     # plt.imsave('name',reconstructed_image)
 
 
 
