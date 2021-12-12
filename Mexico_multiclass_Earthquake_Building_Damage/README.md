@@ -20,8 +20,7 @@ Folder structure =>
             ***|__Label 1
             ***|__Label 2
             ***.
-            ***.
-            
+            ***.         
             
 List of modules need to be installed:
     1. shapely  # !pip install shapely
@@ -35,15 +34,15 @@ Possible issues:
    ```
     sm.set_framework('tf.keras')
     sm.framework()
-   ```
-   
+   ```  
    2.Some GPUs may work slow with mised precision compatibility. Turn that off unless there's memory limitations
    ```
     # mixed_precision.set_global_policy('mixed_float16')
    ```
-   
    3. Ensure shortcut of dataset has been created in My Drive
    
+
+
 
 
 ### The Architecture
