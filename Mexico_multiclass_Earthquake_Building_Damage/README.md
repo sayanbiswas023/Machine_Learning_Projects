@@ -9,18 +9,18 @@ Folder structure =>
      VBL Dataset
         |
      VisionBeyondLimits
-        **|_Images (pngs)
-        **|    **|__Image 1
-        **|    **|__Image 2
-        **|    **.
-        **|    **.
-        **|    
-        **|    
-        **|_ Labels (jsons)
-            ***|__Label 1
-            ***|__Label 2
-            ***.
-            ***.         
+        |_Images (pngs)
+        |    |__Image 1
+        |    |__Image 2
+        |    .
+        |    .
+        |    
+        |    
+        |_ Labels (jsons)
+            |__Label 1
+            |__Label 2
+            .
+            .         
             
 List of modules need to be installed:
     1. shapely  # !pip install shapely
