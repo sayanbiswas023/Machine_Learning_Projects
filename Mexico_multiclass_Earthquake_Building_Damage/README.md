@@ -10,10 +10,10 @@ Folder structure =>
         |
     * VisionBeyondLimits
         **|_Images (pngs)
-        **|    ***|__Image 1
-        **|    ***|__Image 2
-        **|    ***.
-        **|    ***.
+        **|    **|__Image 1
+        **|    **|__Image 2
+        **|    **.
+        **|    **.
         **|    
         **|    
         **|_ Labels (jsons)
