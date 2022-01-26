@@ -6,9 +6,9 @@ Dataset is available at link =>
 Folder structure =>
 
 
-    * VBL Dataset
+     VBL Dataset
         |
-    * VisionBeyondLimits
+     VisionBeyondLimits
         **|_Images (pngs)
         **|    **|__Image 1
         **|    **|__Image 2
