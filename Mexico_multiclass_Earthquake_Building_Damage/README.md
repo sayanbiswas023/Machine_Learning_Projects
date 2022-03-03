@@ -53,4 +53,5 @@ Possible issues:
 ### The Architecture
 ![alt text](https://github.com/sayanbiswas023/Machine_Learning_Projects/blob/main/Mexico_multiclass_Earthquake_Building_Damage/skip/unet.png)
      
-## technologies used: Tensorflow, Keras, Scikit-Learn
+### Technologies used: 
+ Tensorflow, Keras, Scikit-Learn
