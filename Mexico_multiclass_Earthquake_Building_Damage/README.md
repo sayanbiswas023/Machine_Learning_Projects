@@ -1,6 +1,9 @@
 # README
 ### Problem statement:
-Using computer vision techniques determine the degree of damage of buildings after earthquake(Mexico)
+Using computer vision techniques determine the degree of damage of buildings after earthquake(Mexico)<br>
+
+Multiclass classification with classes as :{'destroyed', 'major-damage', 'minor-damage', 'no-damage', 'un-classified'}<be>
+
 Dataset is available at link => 
 [Dataset](https://drive.google.com/drive/folders/1End_chXsxfI2-_XAcv9KKJiM4TZ8rp7O?usp=sharing)
 
