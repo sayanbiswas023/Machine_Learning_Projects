@@ -1,5 +1,6 @@
 # README
-
+### Problem statement:
+Using computer vision techniques determine the degree of damage of buildings after earthquake(Mexico)
 Dataset is available at link => 
 [Dataset](https://drive.google.com/drive/folders/1End_chXsxfI2-_XAcv9KKJiM4TZ8rp7O?usp=sharing)
 
