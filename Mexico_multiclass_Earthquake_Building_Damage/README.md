@@ -4,7 +4,8 @@ Using computer vision techniques determine the degree of damage of buildings aft
 
 Multiclass classification with classes as :{'destroyed', 'major-damage', 'minor-damage', 'no-damage', 'un-classified'}<be>
 
-Dataset is available at link => 
+### Dataset:
+ available at link => 
 [Dataset](https://drive.google.com/drive/folders/1End_chXsxfI2-_XAcv9KKJiM4TZ8rp7O?usp=sharing)
 
 Folder structure =>
@@ -51,3 +52,5 @@ Possible issues:
 
 ### The Architecture
 ![alt text](https://github.com/sayanbiswas023/Machine_Learning_Projects/blob/main/Mexico_multiclass_Earthquake_Building_Damage/skip/unet.png)
+     
+## technologies used: Tensorflow, Keras, Scikit-Learn
