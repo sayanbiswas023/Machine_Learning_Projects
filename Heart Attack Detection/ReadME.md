@@ -11,5 +11,5 @@ Here=> [Dataset](https://www.kaggle.com/alexteboul/heart-disease-health-indicato
 Tensorflow, Keras, Scikit-Learn
 
 ### Model Architecture:
-![alt text](https://github.com/sayanbiswas023/Machine_Learning_Projects/blob/main/Mexico_multiclass_Earthquake_Building_Damage/skip/ANN.png)
+![alt text](https://github.com/sayanbiswas023/Machine_Learning_Projects/blob/main/Mexico_multiclass_Earthquake_Building_Damage/skip/an_network.png)
 
