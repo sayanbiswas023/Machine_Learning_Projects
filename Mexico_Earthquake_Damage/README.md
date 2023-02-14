@@ -1,4 +1,9 @@
 # README
+
+###Authors:
+Sayan Biswas
+Dhruv Shah
+Herambh Dakshinamoorthy
 ### Problem statement:
 Using computer vision techniques determine the degree of damage of buildings after earthquake(Mexico)<br>
 
