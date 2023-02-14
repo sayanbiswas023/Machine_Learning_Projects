@@ -55,3 +55,8 @@ Possible issues:
      
 ### Technologies used: 
  Tensorflow, Keras, Scikit-Learn
+ 
+ ###Collaborators for this project
+ 1) Sayan Biswas
+ 2) Herambh Dakshinamoorthy
+ 3) Dhruv Shah
